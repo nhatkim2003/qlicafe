@@ -23,20 +23,6 @@ Dưới đây là thông tin chi tiết về các nhóm người dùng và cách
     - [Admin](#admin)
     - [Quản lý](#quản-lý)
 
-## Cài đặt và chạy dự án
-
-1. Clone repository:
-    ```bash
-    git clone https://github.com/LongBOTT/cafe_application.git
-    ```
-2. Cài đặt cơ sở dữ liệu với XAMPP:
-    - Trong folder `database`, mở file `coffee.sql`.
-    - Mở XAMPP và import file `coffee.sql` vào MySQL.
-3. Chạy ứng dụng:
-    - Trước khi chạy ứng dụng, bật XAMPP và đảm bảo rằng port MySQL là 3306.
-    - Chạy file `Cafe_Application.java` trong thư mục `main`.
-
-## Ngôn ngữ lập trình và công nghệ sử dụng
 
 - **Ngôn ngữ lập trình:** Java
 
